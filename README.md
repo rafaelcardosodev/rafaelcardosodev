@@ -1,7 +1,7 @@
 ## Olá, bem-vindo ao meu perfil! 🙋‍♂️
 
-#### 👨‍💻Me chamo Rafael e trabalho como desenvolvedor de software
-#### 📚Sou apaixonado por tecnologia e atualmente estou estudando _Kotlin_
+#### 👨‍💻 Me chamo Rafael e trabalho como desenvolvedor de software
+#### 📚 Sou apaixonado por tecnologia e atualmente estou estudando _Kotlin_
 
 
 
