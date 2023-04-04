@@ -1,7 +1,7 @@
 ## Olá, bem-vindo ao meu perfil! 🙋‍♂️
 
 #### 👨‍💻 Me chamo Rafael e trabalho como desenvolvedor fullstack
-#### 📚 Sou apaixonado por tecnologia, Java, e pelo mundo geek
+#### 📚 Sou apaixonado por tecnologia, Java e pelo mundo geek
 
 
 
